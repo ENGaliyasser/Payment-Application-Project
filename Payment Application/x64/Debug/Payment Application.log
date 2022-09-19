@@ -1,0 +1,16 @@
+﻿  app.c
+F:\embeded FWD\Payment Application\Payment Application\Application\app.c(15,12): warning C4098: 'appStart': 'void' function returning a value
+F:\embeded FWD\Payment Application\Payment Application\Application\app.c(19,12): warning C4098: 'appStart': 'void' function returning a value
+F:\embeded FWD\Payment Application\Payment Application\Application\app.c(23,12): warning C4098: 'appStart': 'void' function returning a value
+F:\embeded FWD\Payment Application\Payment Application\Application\app.c(27,12): warning C4098: 'appStart': 'void' function returning a value
+F:\embeded FWD\Payment Application\Payment Application\Application\app.c(32,12): warning C4098: 'appStart': 'void' function returning a value
+F:\embeded FWD\Payment Application\Payment Application\Application\app.c(38,12): warning C4098: 'appStart': 'void' function returning a value
+F:\embeded FWD\Payment Application\Payment Application\Application\app.c(43,12): warning C4098: 'appStart': 'void' function returning a value
+F:\embeded FWD\Payment Application\Payment Application\Application\app.c(48,12): warning C4098: 'appStart': 'void' function returning a value
+F:\embeded FWD\Payment Application\Payment Application\Application\app.c(55,13): warning C4098: 'appStart': 'void' function returning a value
+F:\embeded FWD\Payment Application\Payment Application\Application\app.c(61,23): warning C4133: 'function': incompatible types - from 'ST_terminalData_t *' to 'ST_transaction *'
+F:\embeded FWD\Payment Application\Payment Application\Application\app.c(66,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+F:\embeded FWD\Payment Application\Payment Application\Application\app.c(66,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+F:\embeded FWD\Payment Application\Payment Application\Application\app.c(66,11): message : the missing variadic argument 2 is required by format string '%c'
+F:\embeded FWD\Payment Application\Payment Application\Application\app.c(66,11): message : this argument is used as a buffer size
+  Payment Application.vcxproj -> F:\embeded FWD\Payment Application\x64\Debug\Payment Application.exe
